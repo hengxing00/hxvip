@@ -1,50 +1,50 @@
 {
-  "spider": "./yydf.jar;md5;f362e434223a9b67903f9fe0c1f98c40",
-  "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-  "lives": [
+"ua": "okhttp/3.15",
+"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
     {
-      "name": "live",
-      "type": 0,
-      "url": "https://atomgit.com/hengxing/hx/raw/master/dsj.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+“名称”：“ipv6”，
+“类型”：0，
+"url": "./lib/ipv6.m3u",
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "ipv6",
-      "type": 0,
-      "url": "./lib/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+使用
+控制+换挡+m
+切换
+突耳
+按键移动焦点。或者，使用
+欧洲心脏病学会
+然后
     }
   ],
-  "sites": [
+“地盘”：[
     {
-      "key": "豆瓣",
-      "name": "寂静影院 |恒星资料网",
-      "type": 3,
-      "jar": "./lib/guafty.jar;md5;f8e21d60027d5d4f9e287be44f192c3f",
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+“key”：“豆瓣”
+“name”：“寂静影院|you you you”，
+“类型”：3，
+"jar": "./lib/guafty.jar;md5;f8e21d60027d5d4f9e287be44f192c3f",
+"api": "csp_DouDou",
+“可搜索”：0，
+"quickSearch": 0,
+“可过滤”：0
     },
     {
-      "key": "lf_js_search",
-      "name": "💕 恒星|搜索",
-      "type": 3,
-      "searchable": 0,
-      "changeable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "api": "./lib/lf_search3_min.js"
+"key": "lf_js_search",
+“姓名”：“you you恒星|you”，
+“类型”：3，
+“可搜索”：0，
+“多变”：1，
+"quickSearch": 0,
+“可过滤”：0，
+"api": "./lib/lf_search3_min.js"
     },
     {
-      "key": "csp_短剧网香",
-      "name": "💕 短剧网 ",
+“key”：“csp_短剧网香”，
+“姓名”：“you you短剧网”，
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
